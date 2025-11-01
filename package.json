@@ -1,9 +1,9 @@
 {
-  "name": "wileys",
+  "name": "KennyBaileys",
   "version": "0.0.8",
   "description": "WhatsApp Web API Library",
   "keywords": [
-    "wileys",
+    "KennyBaileys",
     "whatsapp",
     "whatsapp-api",
     "whatsapp-web",
@@ -11,12 +11,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://www.npmjs.com/package/wileys",
+  "homepage": "https://github.com/jonathanggg/KennyBaileys",
   "repository": {
-    "url": "https://www.npmjs.com/package/wileys"
+    "url": "https://github.com/jonathanggg/KennyBaileys"
   },
   "license": "MIT",
-  "author": "wileys",
+  "author": "JonathanG",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -52,7 +52,7 @@
     "cache-manager": "^5.7.6",
     "cheerio": "^1.0.0-rc.10",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "github:NaufalYupra/libsignal-node",
+    "libsignal": "github:jonathanggg/libsignal-node",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
     "pino": "^9.6",
